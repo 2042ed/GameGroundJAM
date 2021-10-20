@@ -1,4 +1,5 @@
-il team di questa GameJam è "Ambiente ed Ecosostenibilità"
+Il tema di questa GameJam è "Ambiente ed Ecosostenibilità".
+ecco una semplice introduzione e qualche spunto di riflessione:
 
 ## Ecosostenibilità
 L’ecosostenibilità è quell’insieme di azioni che si preoccupano dell’ecologia, dell’ambiente e degli animali, per “trattarli bene” e in modo da preservarli e renderli vivi anche nel futuro, mantenendo gli equilibri terrestri.
@@ -9,7 +10,7 @@ Si parla di ecosostenibilità in campo energetico con le fonti di energia rinnov
 Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, che permettono di riutilizzare materiali di scarto e di trasformarli in nuovi oggetti. L’ecosostenibilità non è solo presente nei grandi settori produttivi, ma coinvolge soprattutto i consumatori, che sono chiamati ad agire in modo virtuoso tramite azioni quotidiane ecologiste: attenzione allo spreco energetico e alimentare, raccolta differenziata, scelta di prodotti e marchi sostenibili.  
 
   
-### PROBLEMI  
+### PROBLEMI ATTUALI 
 - energie non rinnovabili (fossili, petrolio, gas) che emettono rifiuti e sono “finite”  
 - plastiche nei mari: microparticelle diffuse dovute ai rifiuti in mare, reti di pesca industriale.  
 - estinzione specie animali e vegetali (agricoltura e pesca senza limiti riduce la biodiversità)  
@@ -21,10 +22,10 @@ Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, 
 - smaltimento rifiuti perenni (scorie nucleari, rifiuti tossici)  
 - consumismo senza limiti, obsolescenza programmata, economia della crescita infinita  
  
-### DISASTRI  
+### DISASTRI FUTURI
 - riscaldamento globale (troppe emissioni e aumento CO2 nell’atmosfera -> effetto serra): disastri inimmaginabili: alzamento livello del mari di diverse decine di metri, 1 miliardi persone a rischio migrazione forzata, riduzione ambienti agricoli, aumento verticali dei costi di tutto.  
   
-### SOLUZIONI  
+### SOLUZIONI POSSIBILI  
 - energie rinnovabili (solare/eolico/geotermico/maree)  
 - economia circolare (riciclo, raccolta differenziata, riparazione, standarizzazione)  
 - risparmio energetico  
@@ -46,7 +47,7 @@ Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, 
 - bambini
 - anziani
  
-### TEMA DELLA JAM (idee sparse):  
+### TITOLO DELLA JAM (idee sparse):  
 - Mi gioco l’ambiente  
 - Ecogiocologico  
 - Il gioco del futuro  
@@ -55,3 +56,4 @@ Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, 
 - Giochiamo il Livello Terra  
 - Evitiamo il Game Over  
 - Videgames for Future
+- 
