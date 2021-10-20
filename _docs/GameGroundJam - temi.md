@@ -23,7 +23,7 @@ Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, 
 - consumismo senza limiti, obsolescenza programmata, economia della crescita infinita  
  
 ### DISASTRI FUTURI
-- riscaldamento globale (troppe emissioni e aumento CO2 nell’atmosfera -> effetto serra): disastri inimmaginabili: alzamento livello del mari di diverse decine di metri, 1 miliardi persone a rischio migrazione forzata, riduzione ambienti agricoli, aumento verticali dei costi di tutto.  
+- riscaldamento globale (troppe emissioni e aumento CO2 nell’atmosfera -> effetto serra): disastri inimmaginabili: alzamento livello del mari, 1 miliardo persone a rischio migrazione forzata, riduzione ambienti agricoli, aumento verticali dei costi di tutto.  
   
 ### SOLUZIONI POSSIBILI  
 - energie rinnovabili (solare/eolico/geotermico/maree)  

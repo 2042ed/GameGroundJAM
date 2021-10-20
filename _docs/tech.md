@@ -6,3 +6,5 @@ https://learn.unity.com/project/lego-template
 
 ## butler
 https://itch.io/docs/butler/
+butler login
+butler push
