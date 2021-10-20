@@ -1,0 +1,43 @@
+# Unity
+/[Ll]ibrary
+/[Tt]emp
+/[Oo]bj
+/Logs
+/[Bb]uild
+/[Bb]uilds
+ExportedObj/
+/UserSettings
+
+# Windows
+Desktop.ini
+
+# macOS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon7
+
+# Code Editors
+/.idea
+/.vscode
+/*.csproj
+/*.sln
+*.swp
+*.vcxproj.user
+.consulo/
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.gradle/
+
+# Local stuff
+Local/
+Local.meta
+
+connectwebgl.zip
+webgl_sharing
