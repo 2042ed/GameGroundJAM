@@ -30,5 +30,3 @@ Sarà necessaria la connessione Internet.
 Avremo già sviluppato e predisposto il template base del videogioco, non potendo sviluppare tutto da zero con dei ragazzi inesperti.
 
 NB: useremo solamente soluzioni software gratuite, possibilmente opensource.
-
-La sede di lavoro dovrà essere tranquilla, con bagni, acqua, frutta e possibilmente della pizza per il pranzo.
