@@ -3,7 +3,7 @@ ecco una semplice introduzione e qualche spunto di riflessione:
 
 ## Ecosostenibilità
 L’ecosostenibilità è quell’insieme di azioni che si preoccupano dell’ecologia, dell’ambiente e degli animali, per “trattarli bene” e in modo da preservarli e renderli vivi anche nel futuro, mantenendo gli equilibri terrestri.
-È eco-sostenibile far si che la generazione successiva alla nostra, i nostri figli e nipoti, riceva la stessa quantità di risorse che noi abbiamo ricevuto noi dalla generazione precedente.
+È eco-sostenibile far si che la generazione successiva alla nostra, i nostri figli e nipoti, riceva la stessa quantità di risorse che noi abbiamo ricevuto dalla generazione precedente.
   
 Nello sviluppo sostenibile sono coinvolti tutti i settori della produzione umana: quello della tecnologia dell'agro-alimentare (alimentazione), della moda, dell’edilizia, dell’arredamento e perfino dei servizi (trasporti, informatica). La missione dell’ecosostenibilità è quella di ridurre al massimo l’impatto ambientale di ogni tipo di azione dell’uomo sulla Terra, perché le risorse vengano preservate per le generazioni future.  
 Si parla di ecosostenibilità in campo energetico con le fonti di energia rinnovabili e di prodotti cruelty-free (non crudeli) quando non vengono utilizzati materie prime di origine animale o quando gli animali vengono trattati in modo etico.  
