@@ -1,0 +1,7 @@
+
+Personaggio: Netturbino
+Nome: Mario
+Autore: Nicola
+1) Ciao! gli umani hanno inquinato la spiaggia mi potresti aiutare a raccogliere i rifiuti?
+2) Ne mancano ancora un po'
+3) Grazie, ora la spiaggia è pulita
