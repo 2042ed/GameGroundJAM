@@ -1,3 +1,19 @@
+Recycle Island è un videogioco realizzato in una Game Jam durante il Game Ground di Bolzano il 23 ottobre 2021.
+
+The E-COS team:
+- Alexander Mariscotti
+- Emanuele Piasentin
+- Fabio Cecere
+- Fausto Schettino
+- Francesco Grasso
+- Joshua Pichler
+- Leonardo Cesari
+- Nicola Piasentin
+- Ruben Pozzara
+
+Tutors: Stefano Cecere e Massimiliano Anzil
+
+
 ALBERO: Albero saggio
 (Fausto - verde chiaro)
 raccogli semi per riforestazione
@@ -28,7 +44,7 @@ STREGONE: Stregone dell’inquinamento
 SCOIATTOLO: Bob
 (Alexander - rosa)
 scarsità cibo - estinzione
-1) Hei trova le mie ghiande, non ci sono più per via degli incendi, noi scoiattoli rischiamo l’estinzione.
+1) Trova le mie ghiande! gli incendi le hanno distruttue, noi scoiattoli rischiamo l’estinzione.
 2) Hai trovato le mie ghiande?
 3) Grazie per aver trovato le mie ghiande adesso forse non mi estinguerò!
 
