@@ -47,13 +47,3 @@ Punti fondamentali dell’ecosostenibilità sono il **riciclo** e il **riuso**, 
 - bambini
 - anziani
  
-### TITOLO DELLA JAM (idee sparse):  
-- Mi gioco l’ambiente  
-- Ecogiocologico  
-- Il gioco del futuro  
-- Cosa facciamo per il futuro?  
-- Il gioco sostiene il futuro  
-- Giochiamo il Livello Terra  
-- Evitiamo il Game Over  
-- Videgames for Future
-- 
