@@ -20,11 +20,11 @@ Servirà poi creare un account personale.
 ### GitHub
 Scaricherete poi tutto questo progetto, da qui [https://github.com/jamurr/GameGroundJAM/archive/refs/heads/master.zip](https://github.com/jamurr/GameGroundJAM/archive/refs/heads/master.zip)
 
-O se siete pratici di Git da qui: [https://github.com/jamurr/GameGroundJAM.git](https://github.com/jamurr/GameGroundJAM.git)
+Se siete pratici di Git da qui: [https://github.com/jamurr/GameGroundJAM.git](https://github.com/jamurr/GameGroundJAM.git)
 
 ### LEGO microgame
-il gioco uso il sistema della LEGO, troverete la documentazione qui: [_docs](./_docs/)
+Il gioco uso il sistema della LEGO, troverete la documentazione qui: [_docs](./_docs/)
 
 ### Lanciare il gioco
-Aprite la cartella con Unity 2020.3 e poi la scena ```/_game/Game```
+Aprite la cartella ```GameGroundJAM_Unity``` con Unity 2020.3 e poi la scena ```/_game/Game```
 
