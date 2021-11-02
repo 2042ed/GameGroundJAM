@@ -1422,7 +1422,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1834,7 +1834,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7d8478bd4ba56f34a8b40b0cb51a17c4, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1916,7 +1916,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2158,7 +2158,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2342,7 +2342,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e958f0d0ad3904c469fb8f836ca3b3dd, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2424,7 +2424,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2521,7 +2521,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4500,7 +4500,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c5ec2dc9a4751194092cea3c4e3170b9, type: 2}
+  - {fileID: 2100000, guid: 0d364d934ce0e624db4ea57fa147bbdb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4586,7 +4586,7 @@ MonoBehaviour:
   designID: 18674
   legacy: 0
   connectivity: {fileID: 4395175524576606084}
-  materialIDs: 77000000
+  materialIDs: 0c010000
   colliders: {fileID: 9051780235958199491}
   brick: {fileID: 801634637458214128}
   knobs: []
@@ -4687,7 +4687,7 @@ MonoBehaviour:
   designID: 3003
   legacy: 0
   connectivity: {fileID: 7274507570871648253}
-  materialIDs: 25000000
+  materialIDs: 0c010000
   colliders: {fileID: 7696697967154570490}
   brick: {fileID: 2672082072739082456}
   knobs:
@@ -5204,7 +5204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7682582455679197108}
   m_Layer: 0
-  m_Name: Pickup Mago
+  m_Name: Pickup stregone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5490,7 +5490,7 @@ MonoBehaviour:
   designID: 30385
   legacy: 0
   connectivity: {fileID: 6369293752516974018}
-  materialIDs: 15000000
+  materialIDs: 0c010000
   colliders: {fileID: 2518699509405006193}
   brick: {fileID: 7967640717461626986}
   knobs: []
