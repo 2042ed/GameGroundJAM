@@ -38,6 +38,7 @@ Icon7
 # Local stuff
 Local/
 Local.meta
+Assets/_test
 
 connectwebgl.zip
 webgl_sharing
