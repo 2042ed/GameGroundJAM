@@ -1290,7 +1290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a98779c1afa4243edb74ddfb76dfb6dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: RecycleIsland
+  sceneName: Game
 --- !u!1 &1660196216
 GameObject:
   m_ObjectHideFlags: 0

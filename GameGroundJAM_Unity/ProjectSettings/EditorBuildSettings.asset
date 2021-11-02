@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/_game/Menu Intro.unity
     guid: 65dd1b439951547a7b23eda05180be66
   - enabled: 1
-    path: Assets/_game/RecycleIsland.unity
+    path: Assets/_game/Game.unity
     guid: 93740de7b5189466c942c46261525728
   - enabled: 1
     path: Assets/_game/Menu Win.unity
