@@ -9,23 +9,25 @@ namespace Unity.LEGO.Behaviours.Actions
         [SerializeField, Tooltip("The Object to Activate.")]
         GameObject m_ObjectToActivate = null;
 
+        [SerializeField, Tooltip("Enable or Disable?")]
+        bool m_Activation = true;
+
+
         bool m_Done = false;
         protected override void Reset()
         {
             base.Reset();
             m_Done = false;
 
- //           m_Scope = Scope.Brick;
+            //           m_Scope = Scope.Brick;
             m_IconPath = "Assets/LEGO/Gizmos/LEGO Behaviour Icons/Shoot Action.png";
         }
 
         protected void Update()
         {
-            if (m_Active)
-            {
+            if (m_Active) {
 
-                if (!m_Done)
-                {
+                if (!m_Done) {
                     ActivateObject();
                     m_Done = true;
                 }
@@ -34,10 +36,9 @@ namespace Unity.LEGO.Behaviours.Actions
 
         void ActivateObject()
         {
-            Debug.Log("HEIIII");
-            if (m_ObjectToActivate)
-            {
-                m_ObjectToActivate.SetActive(true);
+            // Debug.Log("HEIIII");
+            if (m_ObjectToActivate) {
+                m_ObjectToActivate.SetActive(m_Activation);
             }
         }
 
