@@ -1,4 +1,7 @@
-﻿# Recycle Island - GameGround Kids Game Jam
+﻿---
+lastmod: 2021-11-05T10:59:33
+---
+# Recycle Island - GameGround Kids Game Jam
 
 ![](./_foto/screenshot_intro.jpg)
 
@@ -23,6 +26,14 @@ Se siete pratici di Git potete invece clonare il progetto (ed eventualmente prop
 ### LEGO microgame
 Il gioco uso il sistema della LEGO, troverete la documentazione qui: [_docs](./_docs/)
 
+Dentro Unity potete lanciare dei video tutorial per imparare le operazioni base,
+oppure guardate qui per delle spiegazioni video: https://learn.unity.com/project/lego-template
+
+### BrickLink Studio
+Per creare e modificare i nostri oggetti e personaggi usiamo questa applicazione, gratuita: https://www.bricklink.com
+
 ### Lanciare il gioco
 Aprite la cartella ```GameGroundJAM_Unity``` con Unity 2020.3 e poi la scena ```/_game/Game```  
 
+## Contatti
+Se avete domande, suggerimenti e quant'altro, aprite una issue qui su GitHub [https://github.com/jamurr/GameGroundJAM/issues](https://github.com/jamurr/GameGroundJAM/issues) oppure contattatemi [https://github.com/StefanoCecere](https://github.com/StefanoCecere)
