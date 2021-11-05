@@ -1,7 +1,4 @@
-﻿---
-lastmod: 2021-11-05T10:59:33
----
-# Recycle Island - GameGround Kids Game Jam
+﻿# Recycle Island - GameGround Kids Game Jam
 
 ![](./_foto/screenshot_intro.jpg)
 
