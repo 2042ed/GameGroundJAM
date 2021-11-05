@@ -1930,7 +1930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3051168632392527335}
   m_Layer: 0
-  m_Name: Pickup foca
+  m_Name: Pickup foca prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5448,7 +5448,7 @@ GameObject:
   - component: {fileID: 7883250808090347793}
   - component: {fileID: 2506533825905762631}
   m_Layer: 0
-  m_Name: Crystal
+  m_Name: Pickup foca
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
