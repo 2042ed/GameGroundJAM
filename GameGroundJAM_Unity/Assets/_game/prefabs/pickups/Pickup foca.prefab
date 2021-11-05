@@ -1930,7 +1930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3051168632392527335}
   m_Layer: 0
-  m_Name: Pickup foca prefab
+  m_Name: Pickup foca
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

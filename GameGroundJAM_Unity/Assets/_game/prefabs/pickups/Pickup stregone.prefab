@@ -3286,7 +3286,7 @@ GameObject:
   - component: {fileID: 3291858001198283586}
   - component: {fileID: 7061950440466223892}
   m_Layer: 0
-  m_Name: Crystal
+  m_Name: Crystal stregone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3700,12 +3700,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1198874367236122747}
   - component: {fileID: 2672082072739082456}
-  - component: {fileID: 6743205289886778077}
   - component: {fileID: 6313332726096951435}
   - component: {fileID: 2469631192300392162}
   - component: {fileID: 5479496288141869833}
   - component: {fileID: 7001568823479221591}
   - component: {fileID: 7824786191260510734}
+  - component: {fileID: 6225990805441308069}
   m_Layer: 0
   m_Name: Pickup
   m_TagString: Untagged
@@ -3748,28 +3748,6 @@ MonoBehaviour:
     m_Center: {x: -0.40000004, y: 0.569, z: -0.40000004}
     m_Extent: {x: 0.8, y: 0.569, z: 0.8}
   colliding: 0
---- !u!114 &6743205289886778077
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5755052841112529947}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d12bb92fae5e415bb27a287b07ef7ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Scope: 1
-  m_IconPath: Assets/LEGO/Gizmos/LEGO Behaviour Icons/Pickup Action.png
-  m_FlashColour: {r: 0.6901961, g: 1.3411765, b: 0.50980395, a: 2}
-  m_Brick: {fileID: 2672082072739082456}
-  m_BrickPivotOffset: {x: -0.40018567, y: 0.56878287, z: -0.4000695}
-  m_Audio: {fileID: 8300000, guid: 23ec30139807c46699cb698240c8de33, type: 3}
-  m_AudioVolume: 1
-  m_Variable: {fileID: 11400000, guid: 602dfe696352a45fc9717f7122391568, type: 2}
-  m_Effect: {fileID: 6495044552919392668, guid: b096279cf46d9461fb5f199c8d5fde6e,
-    type: 3}
 --- !u!114 &6313332726096951435
 MonoBehaviour:
   m_ObjectHideFlags: 10
@@ -3857,6 +3835,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   onlyActiveGameObject: 1
   hideChildren: 1
+--- !u!114 &6225990805441308069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5755052841112529947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab5104197a3e84dda87696ecb05fe21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Scope: 1
+  m_IconPath: Assets/LEGO/Gizmos/LEGO Behaviour Icons/Pickup Action.png
+  m_FlashColour: {r: 0.6901961, g: 1.3411765, b: 0.50980395, a: 2}
+  m_Brick: {fileID: 2672082072739082456}
+  m_BrickPivotOffset: {x: -0.4001846, y: 0.56878287, z: -0.4000695}
+  m_Audio: {fileID: 8300000, guid: e37fd12f20b6a40659156e6003b7a4a1, type: 3}
+  m_AudioVolume: 1
+  m_Effect: {fileID: 6495044552919392668, guid: b096279cf46d9461fb5f199c8d5fde6e,
+    type: 3}
 --- !u!1 &5756199989984124921
 GameObject:
   m_ObjectHideFlags: 0
